@@ -1,5 +1,5 @@
 import React, {useState} from "react"
-function Colors(){
+const Colors=()=>{
     const[color, setColor] = useState("Red")
 return(
     <div style={{color:color}}>

@@ -11,4 +11,4 @@ return(
     </div>
 );
 }
-export default List
+export default List;
